@@ -17,3 +17,6 @@ include 'services:webservice'
 */
 
 rootProject.name = 'md5-cycle'
+include 'md5-cycle-c'
+include 'md5-cycle-java'
+include 'md5-cycle-python'
